@@ -1,6 +1,7 @@
 # Advice generator app solution
 
 Priscilla Abigail Munthe - 2602109883
+
 Live site link: https://priscillabigaill.github.io/WADS_lab/ 
 
 ## Table of contents
